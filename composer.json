@@ -1,0 +1,10 @@
+{
+    "name": "gsdb/test",
+    "description": "Just a test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gsdb\\": "src/"
+        }
+    }
+}
